@@ -10,7 +10,7 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 
 コース受講前に事前準備が必要となります。
 
-「**コース一覧**」より、ご受講予定コースの「**準備URL**」をクリックし、内容をご確認ください。
+「**コース一覧**」より、ご受講予定コース名をクリックし、内容をご確認ください。
 
 
 
@@ -20,11 +20,11 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 
 | コース名 | 準備URL |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| AZ-900：Microsoft Azure 基礎 | https://ctctedu-course-prep.azurewebsites.net/3-azp-rdp-ms.html |
-| AZ-104：Microsoft Azure 管理者 | https://ctctedu-course-prep.azurewebsites.net/5-sk-azp-rdp-ms.html |
-| AZ-204：Microsoft Azure のソリューション開発 | https://ctctedu-course-prep.azurewebsites.net/13-sk-ms.html |
-| AZ-305：Microsoft Azure インフラストラクチャの設計 | https://ctctedu-course-prep.azurewebsites.net/12-azp-ms.html |
-| AZ-040：PowerShellを使用した管理の自動化                     | https://ctctedu-course-prep.azurewebsites.net/6-sk-azp-rdp-ms-mfa.html |
+| [AZ-900：Microsoft Azure 基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/main/03-azp-rdp-ms.md) | https://ctctedu-course-prep.azurewebsites.net/3-azp-rdp-ms.html |
+| [AZ-104：Microsoft Azure 管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/main/05-sk-azp-rdp-ms.md) | https://ctctedu-course-prep.azurewebsites.net/5-sk-azp-rdp-ms.html |
+| [AZ-204：Microsoft Azure のソリューション開発](https://github.com/ctct-edu/Course-Prep/blob/main/prep/main/13-sk-ms.md) | https://ctctedu-course-prep.azurewebsites.net/13-sk-ms.html |
+| [AZ-305：Microsoft Azure インフラストラクチャの設計](https://github.com/ctct-edu/Course-Prep/blob/main/prep/main/12-azp-ms.md) | https://ctctedu-course-prep.azurewebsites.net/12-azp-ms.html |
+| [AZ-040：PowerShellを使用した管理の自動化](https://github.com/ctct-edu/Course-Prep/blob/main/prep/main/06-sk-azp-rdp-ms-mfa.md) | https://ctctedu-course-prep.azurewebsites.net/6-sk-azp-rdp-ms-mfa.html |
 | SC-900：Microsoft セキュリティ、コンプライアンス、ID の基礎  | https://ctctedu-course-prep.azurewebsites.net/10-sk-ent-ms-mfa.html |
 | SC-300：Microsoft ID およびアクセス管理者                    | https://ctctedu-course-prep.azurewebsites.net/10-sk-ent-ms-mfa.html |
 | DP-900：Microsoft Azure のデータの基礎                       | https://ctctedu-course-prep.azurewebsites.net/4-sk-azp-ms.html |
