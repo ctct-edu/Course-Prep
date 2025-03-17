@@ -20,7 +20,7 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 
 | コース名 | 準備URL |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [AZ-900：Microsoft Azure 基礎](https://github.com/ctct-edu/Course-Prep/blobprep03-azp-rdp-ms.md) | https://ctctedu-course-prep.azurewebsites.net/3-azp-rdp-ms.html |
+| [AZ-900：Microsoft Azure 基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/03-azp-rdp-ms.md) | https://ctctedu-course-prep.azurewebsites.net/3-azp-rdp-ms.html |
 | [AZ-104：Microsoft Azure 管理者](https://github.com/ctct-edu/Course-Prep/blobprep05-sk-azp-rdp-ms.md) | https://ctctedu-course-prep.azurewebsites.net/5-sk-azp-rdp-ms.html |
 | [AZ-204：Microsoft Azure のソリューション開発](https://github.com/ctct-edu/Course-Prep/blobprep13-sk-ms.md) | https://ctctedu-course-prep.azurewebsites.net/13-sk-ms.html |
 | [AZ-305：Microsoft Azure インフラストラクチャの設計](https://github.com/ctct-edu/Course-Prep/blobprep12-azp-ms.md) | https://ctctedu-course-prep.azurewebsites.net/12-azp-ms.html |
