@@ -82,3 +82,6 @@
 
 受講当日、お会いできることを心よりお待ちしております。
 
+
+
+![aadportal1](.\icon\aadportal1.png)
