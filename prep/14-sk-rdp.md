@@ -24,7 +24,7 @@
 
    | 項目      | 詳細                                     | 備考                                                         |
    | --------- | ---------------------------------------- | ------------------------------------------------------------ |
-   | Skillable | https://alh.learnondemand.net/User/Login | 「**Sign In**」画面が表示できればOKです。<br /><img src="./icon/Skillable_SignIn.png" alt="Skillable_SignIn" style="zoom:25%;" /> |
+   | Skillable | https://alh.learnondemand.net/User/Login | 「**Sign In**」画面が表示できればOKです。<br /><img src="./icon/Skillable_SignIn.png" alt="Skillable_SignIn" width="400pix" /> |
 
    > ※サインインする必要はありません。それぞれ入力画面が表示できればアクセス可能となります。
    >
@@ -44,13 +44,13 @@
 
    a.Windowsのスタートメニューから「**リモート**」と検索し、「**リモートデスクトップ接続**」を選択します。
 
-   ![rdp1](./icon/rdp1.png) 
+   <img src="./icon/rdp1.png" alt="rdp1" width="400pix"> 
 
    
 
     b.リモートデスクトップ接続画面に「**20.48.105.229**」と入力し、接続をクリックします。
 
-   ![rdp2](./icon/rdp2.png)　
+   <img src="./icon/rdp2.png" alt="rdp2" width="400pix">　
 
    
 
@@ -58,7 +58,7 @@
 
    　そのまま、画面を閉じてください。
 
-   ![rdp3](./icon/rdp3.png)　
+   <img src="./icon/rdp3.png" alt="rdp3" width="400pix">　
 
    > ※ユーザー名とパスワードの入力、サインインする必要はありません。
    >
@@ -70,7 +70,7 @@
 
    RDP接続時にエラーが表示される場合があります。
 
-   ![rdperror](./icon/rdperror.png)　
+   <img src="./icon/rdperror.png" alt="rdperror" width="500pix">　
 
    
 
@@ -78,13 +78,13 @@
 
    | 項目                                                         | 詳細                                                         |
    | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | <img src="./icon/Network.png" alt="Network" style="zoom: 25%;" />　**ネットワークの変更** | 会社のネットワークからアクセスした場合、RDP接続を禁止する設定がファイヤーウォール等に<br />行われている可能性があります。別のネットワークから接続可能な場合、そちらからお試ししてご受講ください。 |
-   | <img src="./icon/securepc.png" alt="securepc" style="zoom:25%;" />　 **使用するPC変更** | 会社貸与のPCでは、RDP接続が出来ない設定が行われている場合があります。<br />ご自身でお持ちのPCなど、他のPCからアクセスできるかお試しください。 |
-   | <img src="./icon/VPN.png" alt="VPN" style="zoom:2%;" />　 **VPNの停止** | 業務で使用しているPCのVPNソフトが起動しているため、接続できない可能性があります。<br />VPNソフトを停止してお試しください。 |
+   | <img src="./icon/Network.png" width="80pix">　<br>**ネットワークの変更** | 会社のネットワークからアクセスした場合、RDP接続を禁止する設定がファイヤーウォール等に<br />行われている可能性があります。別のネットワークから接続可能な場合、そちらからお試ししてご受講ください。 |
+   | <img src="./icon/securepc.png" alt="securepc" width="80pix">　 <br>**使用するPC変更** | 会社貸与のPCでは、RDP接続が出来ない設定が行われている場合があります。<br />ご自身でお持ちのPCなど、他のPCからアクセスできるかお試しください。 |
+   | <img src="./icon/VPN.png" alt="VPN" width="80pix">　 <br>**VPNの停止** | 業務で使用しているPCのVPNソフトが起動しているため、接続できない可能性があります。<br />VPNソフトを停止してお試しください。 |
 
    上記の対処でも接続できない、またはご用意できない場合もございます。
 
-   その場合、Webブラウザから演習マシンにアクセスする機能でご提供することも可能です。
+   その場合、AzureにはWebブラウザから仮想マシンにアクセスする機能でご提供することも可能です。
 
    弊社側で事前に準備する必要がございます。お手数ですが、**「受講案内メール」へのご返信**または**弊社の担当営業**へご連絡ください。
 

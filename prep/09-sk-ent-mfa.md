@@ -23,8 +23,8 @@
 
    | 項目                         | 詳細                                     | 備考                                                         |
    | ---------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
-   | Skillable                    | https://alh.learnondemand.net/User/Login | 「**Sign In**」画面が表示できればOKです。<br /><img src="./icon/Skillable_SignIn.png" alt="Skillable_SignIn" style="zoom:25%;" /> |
-   | Microsoft Entra 管理センター | https://entra.microsoft.com/             | 「**サインイン**」または「**アカウントを選択する**」<br />画面が表示できればOKです。<br /><img src="/icon/M365Admin_SignIn.png" alt="M365Admin_SignIn" style="zoom:25%;" /> |
+   | Skillable                    | https://alh.learnondemand.net/User/Login | 「**Sign In**」画面が表示できればOKです。<br /><img src="./icon/Skillable_SignIn.png" alt="Skillable_SignIn" width="400pix" /> |
+   | Microsoft Entra 管理センター | https://entra.microsoft.com/             | 「**サインイン**」または「**アカウントを選択する**」<br />画面が表示できればOKです。<br /><img src="/icon/M365Admin_SignIn.png" alt="M365Admin_SignIn" width="400pix" /> |
 
    > ※サインインする必要はありません。それぞれ入力画面が表示できればアクセス可能となります。
    >
@@ -62,19 +62,19 @@
 
    a.お手持ちのスマートフォンからQRリーダーを起動し、アプリインストールの画面を表示します。
 
-   ![mfa1](./icon/mfa1.png)　
+   <img src="./icon/mfa1.png" alt="mfa1" width="400pix" /> 
 
    
 
    b.ストア画面が表示されましたら、インストールをしてください。
 
-   ![mfa2](./icon/mfa2.png)　
+   <img src="./icon/mfa2.png" alt="mfa2" width="400pix" /> 
 
    
 
    c.インストール後にアプリを起動してください。起動後に初期設定を行います。
 
-   ![mfa3](./icon/mfa3.png)　
+   <img src="./icon/mfa3.png" alt="mfa3" width="400pix" /> 
 
    　
 
@@ -82,9 +82,7 @@
 
    　アプリを閉じてOKです。ご協力いただき、誠にありがとうございました。
 
-   ![mfa4](./icon/mfa4.png)　
-
-   　
+   <img src="./icon/mfa4.png" alt="mfa4" width="400pix" /> 
 
    　
 
