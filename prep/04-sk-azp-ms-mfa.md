@@ -36,11 +36,11 @@
 
    a.以下のアカウント情報とパスワードを使用して、Azure Portalにサインイン(ログイン)できるか事前確認をお願いします。
 
-   | 項目                              | 詳細                     |
-   | --------------------------------- | ------------------------ |
-   | サインイン先URL(**Azure Portal**) | https://portal.azure.com |
-   | ユーザー名                        |                          |
-   | パスワード                        | Pa55w.rd1234             |
+   | 項目                              | 詳細                                        |
+   | --------------------------------- | ------------------------------------------- |
+   | サインイン先URL(**Azure Portal**) | https://portal.azure.com                    |
+   | ユーザー名                        | `azure-portal-test@ctctedu.onmicrosoft.com` |
+   | パスワード                        | Pa55w.rd1234                                |
 
 <img src="./icon/azurelogin2.png" alt="azurelogin2" width="300pix"/> <img src="./icon/azureloginpass2.png" alt="azureloginpass2" width="300pix" />  
 
@@ -70,32 +70,30 @@
 
    > 既にMicrosoftアカウントをお持ちの方は、ご自身のアカウントをご用意ください。
 
-   
-
    a.Microsoftアカウント (https://account.microsoft.com/) へアクセスします。
 
    
 
    b.画面中央にある「サインイン」をクリックします。
 
-   <img src="MicrosoftAccount1.png"  alt="MicrosoftAccount1" width="450pix" />　
+   <img src="./icon/MicrosoftAccount1.png"  alt="MicrosoftAccount1" width="450pix" />　
 
    
 
    c.サインイン画面で「アカウントをお持ちではない場合、作成できます。」をクリックします。
 
-   <img src="MicrosoftAccount2.png" alt="MicrosoftAccount2" width="350pix" />　
+   <img src="./icon/MicrosoftAccount2.png" alt="MicrosoftAccount2" width="350pix" />　
 
    
-   
+
    d.アカウントの作成画面でメールアドレスを入力して「次へ」または「新しいメールアドレスを取得」を選択します。
    
    | 項目                                  | 詳細                                                         |
    | ------------------------------------- | ------------------------------------------------------------ |
    | メールアドレスを入力                  | GmailやYahoo!メールなどのアドレスを利用することが可能です。<br />Microsoftアカウントを他のメールアドレスと統一したい場合は、こちらを選択してください。 |
    | 新しいメールアドレスを取得<br />※推奨 | Microsoftアカウントとメールアドレスを取得することが可能です。<br />ドメインは「outlook.com」「outlook.jp」「hotmail.com」から選択できます。<br />Microsoftアカウントとして個別に利用したい場合は、こちらを選択してください。 |
-
-   <img src="MicrosoftAccount3.png" alt="MicrosoftAccount3" width="400pix" />　
+   
+   <img src="./icon/MicrosoftAccount3.png" alt="MicrosoftAccount3" width="350pix" />　
 
    
 
@@ -103,7 +101,7 @@
 
    > ※パスワードを忘れた場合、ご自身で再設定する必要がございます。
 
-   <img src="MicrosoftAccount4.png" alt="MicrosoftAccount4" width="350pix" />　
+   <img src="./icon/MicrosoftAccount4.png" alt="MicrosoftAccount4" width="350pix" />　
 
    
 
@@ -113,19 +111,19 @@
 
    > ※パズルは複数パターンあります。
 
-   <img src="MicrosoftAccount5.png" alt="MicrosoftAccount5" width="350pix" />　
+   <img src="./icon/MicrosoftAccount5.png" alt="MicrosoftAccount5" width="300pix" />　
 
    
 
    g.Microsoftアカウントの作成が完了し、Microsoftアカウントのホーム画面が表示されます。
 
-   <img src="MicrosoftAccount6.png" alt="MicrosoftAccount6" width="500pix" />　
+   <img src="./icon/MicrosoftAccount6.png" alt="MicrosoftAccount6" width="500pix" />　
 
    
-   
+
    h.最後に画面右上にあるアイコンをクリックし、「**サインアウト**」を行います。
    
-   <img src="MicrosoftAccount7.png" alt="MicrosoftAccount7" width="450pix" /> 　
+   <img src="./icon/MicrosoftAccount7.png" alt="MicrosoftAccount7" width="450pix" /> 　
 
 ------
 
@@ -149,19 +147,19 @@
 
    a.お手持ちのスマートフォンからQRリーダーを起動し、アプリインストールの画面を表示します。
 
-   <img src="mfa1.png" alt="mfa1" width="400pix" /> 
+   <img src="./icon/mfa1.png" alt="mfa1" width="400pix" /> 
 
    
 
    b.ストア画面が表示されましたら、インストールをしてください。
 
-   <img src="mfa2.png" alt="mfa2" width="400pix" /> 
+   <img src="./icon/mfa2.png" alt="mfa2" width="400pix" /> 
 
    
 
    c.インストール後にアプリを起動してください。起動後に初期設定を行います。
 
-   <img src="mfa3.png" alt="mfa3" width="400pix" /> 
+   <img src="./icon/mfa3.png" alt="mfa3" width="400pix" /> 
 
    　
 
@@ -169,47 +167,7 @@
 
    　アプリを閉じてOKです。ご協力いただき、誠にありがとうございました。
 
-   <img src="mfa4.png" alt="mfa4" width="400pix" /> 
-
-   Microsoft認定コースでは、ハンズオンラボを提供しております。
-
-   一部のコースでは、ラボをご利用の際には、ラボアカウントでのサインインが必要ですが、2024年4月より、
-
-   Microsoft社の方針により、ラボアカウントでのログインには必ず「多要素認証(MFA)」が必要となります。
-
-   そのため、研修にご参加いただく際には、あらかじめご自身のスマートフォン（社用または私用を問わず）に
-
-   Microsoft社の多要素認証アプリである「Microsoft Authenticator」をインストールしていただくようお願いいたします。　
-
-   > ※既に「Microsoft Authenticator」をインストール済みの場合、事前のご準備は不要です。
-   >
-   > ※社用スマートフォンでインストールしている場合でも、ご利用いただけます。
-
-   
-
-   a.お手持ちのスマートフォンからQRリーダーを起動し、アプリインストールの画面を表示します。
-
-   <img src="mfa1.png" alt="mfa1" width="400pix" /> 
-
-   
-
-   b.ストア画面が表示されましたら、インストールをしてください。
-
-   <img src="mfa2.png" alt="mfa2" width="400pix" /> 
-
-   
-
-   c.インストール後にアプリを起動してください。起動後に初期設定を行います。
-
-   <img src="mfa3.png" alt="mfa3" width="400pix" /> 
-
-   　
-
-   d.初期設定が完了するとホーム画面が表示されます。事前の準備はここまでとなります。
-
-   　アプリを閉じてOKです。ご協力いただき、誠にありがとうございました。
-
-   <img src="mfa4.png" alt="mfa4" width="400pix" /> 
+   <img src="./icon/mfa4.png" alt="mfa4" width="400pix" /> 
 
   
 
