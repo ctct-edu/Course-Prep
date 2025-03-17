@@ -84,4 +84,4 @@
 
 
 
-![aadportal1](.\icon\aadportal1.png)
+![aadportal1](./icon/aadportal1.png)
