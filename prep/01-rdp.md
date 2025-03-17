@@ -24,7 +24,7 @@
 
    a.Windowsのスタートメニューから「**リモート**」と検索し、「**リモートデスクトップ接続**」を選択します。
 
-   <img src="./icon/rdp1.png" alt="rdp1" width="400pix"> 
+   <img src="./icon/rdp1.png" alt="rdp1" width="350pix"> 
 
    
 
