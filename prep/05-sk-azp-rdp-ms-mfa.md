@@ -179,10 +179,8 @@
       
 
       h.最後に画面右上にあるアイコンをクリックし、「**サインアウト**」を行います。
-
-       <img src="./icon/MicrosoftAccount7.png" alt="MicrosoftAccount7" width="400pix" />
-
-   　
+      
+            <img src="./icon/MicrosoftAccount7.png" alt="MicrosoftAccount7" width="400pix" />　　
 
 ------
 
@@ -190,13 +188,13 @@
 
 　Microsoft認定コースでは、ハンズオンラボを提供しております。
 
-一部のコースでは、ラボをご利用の際には、ラボアカウントでのサインインが必要ですが、2024年4月より、
+　一部のコースでは、ラボをご利用の際には、ラボアカウントでのサインインが必要ですが、2024年4月より、
 
-Microsoft社の方針により、ラボアカウントでのログインには必ず「多要素認証(MFA)」が必要となります。
+　Microsoft社の方針により、ラボアカウントでのログインには必ず「多要素認証(MFA)」が必要となります。
 
-そのため、研修にご参加いただく際には、あらかじめご自身のスマートフォン（社用または私用を問わず）に
+　そのため、研修にご参加いただく際には、あらかじめご自身のスマートフォン（社用または私用を問わず）に
 
-Microsoft社の多要素認証アプリである「Microsoft Authenticator」をインストールしていただくようお願いいたします。　
+　Microsoft社の多要素認証アプリである「Microsoft Authenticator」をインストールしていただくようお願いいたします。　
 
 > ※既に「Microsoft Authenticator」をインストール済みの場合、事前のご準備は不要です。
 >
@@ -204,31 +202,29 @@ Microsoft社の多要素認証アプリである「Microsoft Authenticator」を
 
 
 
-a.お手持ちのスマートフォンからQRリーダーを起動し、アプリインストールの画面を表示します。
+　a.お手持ちのスマートフォンからQRリーダーを起動し、アプリインストールの画面を表示します。
 
-<img src="./icon/mfa1.png" alt="mfa1" width="400pix" /> 
-
-
-
-b.ストア画面が表示されましたら、インストールをしてください。
-
-<img src="./icon/mfa2.png" alt="mfa2" width="400pix" /> 
+　<img src="./icon/mfa1.png" alt="mfa1" width="400pix" /> 
 
 
 
-c.インストール後にアプリを起動してください。起動後に初期設定を行います。
+　b.ストア画面が表示されましたら、インストールをしてください。
 
-<img src="./icon/mfa3.png" alt="mfa3" width="400pix" /> 
+　<img src="./icon/mfa2.png" alt="mfa2" width="400pix" /> 
+
+
+
+　c.インストール後にアプリを起動してください。起動後に初期設定を行います。
+
+　<img src="./icon/mfa3.png" alt="mfa3" width="400pix" /> 
 
 　
 
-d.初期設定が完了するとホーム画面が表示されます。事前の準備はここまでとなります。
+　d.初期設定が完了するとホーム画面が表示されます。事前の準備はここまでとなります。
 
 　アプリを閉じてOKです。ご協力いただき、誠にありがとうございました。
 
-<img src="./icon/mfa4.png" alt="mfa4" width="400pix" />  
-
-
+　<img src="./icon/mfa4.png" alt="mfa4" width="400pix" />
 
 -----
 
