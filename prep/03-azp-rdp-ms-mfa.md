@@ -26,19 +26,19 @@
    | ユーザー名                        | `azure-portal-test@ctctedu.onmicrosoft.com` |
    | パスワード                        | Pa55w.rd1234                                |
 
-   <img src="C:/Users/z2245009/Documents/Github/Course-Prep/prep/icon/azurelogin2.png" alt="azurelogin2" width="300pix"/> <img src="C:/Users/z2245009/Documents/Github/Course-Prep/prep/icon/azureloginpass2.png" alt="azureloginpass2" width="300pix" />  
+   <img src="./icon/azurelogin2.png" alt="azurelogin2" width="300pix"/> <img src="./icon//azureloginpass2.png" alt="azureloginpass2" width="300pix" />  
 
    
 
    b.サインイン後に「**Azure へようこそ!**」の画面が表示されましたら、正常にサインインが完了しています。
 
-   <img src="C:/Users/z2245009/Documents/Github/Course-Prep/prep/icon/azureportal.png" alt="azureportal" width="500pix" />　
+   <img src="./icon/azureportal.png" alt="azureportal" width="500pix" />　
 
    
 
    c.最後にサインアウトを行います。画面右上にあるユーザーアイコンをクリックし、「**サインアウト**」をしてください。
 
-   <img src="C:/Users/z2245009/Documents/Github/Course-Prep/prep/icon/azureportalllogout.png" alt="azureportalllogout" width="500pix"/>　
+   <img src="./icon//azureportalllogout.png" alt="azureportalllogout" width="500pix"/>　
 
    ------
 
