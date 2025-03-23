@@ -180,7 +180,9 @@
 
       h.最後に画面右上にあるアイコンをクリックし、「**サインアウト**」を行います。
       
-            <img src="./icon/MicrosoftAccount7.png" alt="MicrosoftAccount7" width="400pix" />　　
+      ​      <img src="./icon/MicrosoftAccount7.png" alt="MicrosoftAccount7" width="400pix" />　
+      
+      
 
 ------
 
