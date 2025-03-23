@@ -26,7 +26,7 @@
    | 項目                       | 詳細                                     | 備考                                                         |
    | -------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
    | Skillable                  | https://alh.learnondemand.net/User/Login | 「**Sign In**」画面が表示できればOKです。<br /><img src="./icon/Skillable_SignIn.png" alt="Skillable_SignIn" width="400pix" /> |
-   | Microsoft 365 管理センター | https://admin.microsoft.com              | 「**サインイン**」または「**アカウントを選択する**」<br />画面が表示できればOKです。<br /><img src="/icon/M365Admin_SignIn.png" alt="M365Admin_SignIn" width="400pix" /> |
+   | Microsoft 365 管理センター | https://admin.microsoft.com              | 「**サインイン**」または「**アカウントを選択する**」<br />画面が表示できればOKです。<br /><img src="./icon/M365Admin_SignIn.png" alt="M365Admin_SignIn" width="400pix" /> |
 
    > ※サインインする必要はありません。それぞれ入力画面が表示できればアクセス可能となります。
    >
