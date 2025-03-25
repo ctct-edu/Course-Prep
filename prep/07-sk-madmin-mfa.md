@@ -58,13 +58,13 @@
 
    b.画面中央にある「サインイン」をクリックします。
 
-   <img src="/icon/MicrosoftAccount1.png"  alt="MicrosoftAccount1" width="450pix" />　
+   <img src="./icon/MicrosoftAccount1.png"  alt="MicrosoftAccount1" width="450pix" />　
 
    
 
    c.サインイン画面で「アカウントをお持ちではない場合、作成できます。」をクリックします。
 
-   <img src="/icon/MicrosoftAccount2.png" alt="MicrosoftAccount2" width="350pix" />　
+   <img src="./icon/MicrosoftAccount2.png" alt="MicrosoftAccount2" width="350pix" />　
 
    
 
@@ -75,7 +75,7 @@
    | メールアドレスを入力                  | GmailやYahoo!メールなどのアドレスを利用することが可能です。<br />Microsoftアカウントを他のメールアドレスと統一したい場合は、こちらを選択してください。 |
    | 新しいメールアドレスを取得<br />※推奨 | Microsoftアカウントとメールアドレスを取得することが可能です。<br />ドメインは「outlook.com」「outlook.jp」「hotmail.com」から選択できます。<br />Microsoftアカウントとして個別に利用したい場合は、こちらを選択してください。 |
    
-   <img src="/icon/MicrosoftAccount3.png" alt="MicrosoftAccount3" width="400pix" />　
+   <img src="./icon/MicrosoftAccount3.png" alt="MicrosoftAccount3" width="400pix" />　
 
    
 
