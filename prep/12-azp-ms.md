@@ -9,7 +9,6 @@
 | 項目                                                         |
 | ------------------------------------------------------------ |
 | [AZ-305 Microsoft Azure インフラストラクチャの設計](https://www.school.ctc-g.co.jp/course/P763.html) |
-| [AI-050 Azure OpenAI Service を使用して生成 AI ソリューションを開発する](https://www.school.ctc-g.co.jp/course/P772.html) |
 
 
 

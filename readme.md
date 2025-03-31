@@ -22,13 +22,12 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 | ------------------------------------------------------------ |
 | [AZ-900：Microsoft Azure 基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/03-azp-rdp-ms-mfa.md) |
 | [AZ-104：Microsoft Azure 管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/05-sk-azp-rdp-ms-mfa.md) |
-| [AZ-204：Microsoft Azure のソリューション開発](https://github.com/ctct-edu/Course-Prep/blob/main/prep/13-sk-ms.md) |
+| [AZ-204：Microsoft Azure のソリューション開発](https://github.com/ctct-edu/Course-Prep/blob/main/prep/13-sk-ms-mfa.md) |
 | [AZ-305：Microsoft Azure インフラストラクチャの設計](https://github.com/ctct-edu/Course-Prep/blob/main/prep/12-azp-ms.md) |
 | [AZ-040：PowerShellを使用した管理の自動化](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-azp-rdp-ms-mfa.md) |
 | [SC-900：Microsoft セキュリティ、コンプライアンス、ID の基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/10-sk-ent-ms-mfa.md) |
 | [SC-300：Microsoft ID およびアクセス管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/10-sk-ent-ms-mfa.md) |
 | [DP-900：Microsoft Azure のデータの基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/04-sk-azp-ms-mfa.md) |
-| [AI-050：Azure OpenAI Service を使用して生成 AI ソリューションを開発する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/12-azp-ms.md) |
 | [AI-900：Microsoft Azure AI の基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/04-sk-azp-ms-mfa.md) |
 | [AI-102：Microsoft Azure AI ソリューションの設計と実装](https://github.com/ctct-edu/Course-Prep/blob/main/prep/08-sk-ms-mfa.md) |
 | [Microsoft Entra ID（旧称 Azure Active Directory）入門](https://github.com/ctct-edu/Course-Prep/blob/main/prep/09-sk-ent-mfa.md) |
