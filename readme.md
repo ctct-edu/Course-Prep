@@ -67,7 +67,7 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 | [Power Automateによる業務自動化入門](https://github.com/ctct-edu/Course-Prep/blob/main/prep/01-rdp.md) |
 | [Power Appsによる業務アプリ開発実践](https://github.com/ctct-edu/Course-Prep/blob/main/prep/01-rdp.md) |
 | [Power Automateによる業務自動化実践](https://github.com/ctct-edu/Course-Prep/blob/main/prep/01-rdp.md) |
-| [Power BI入門](https://github.com/ctct-edu/Course-Prep/blob/main/prep/01-rdp.md) |
+| [Power BIによる業務データ分析入門](https://github.com/ctct-edu/Course-Prep/blob/main/prep/01-rdp.md) |
 
 
 

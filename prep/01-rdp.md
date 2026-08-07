@@ -10,7 +10,7 @@
 | ------------------------------------------------------------ |
 | [Windows Server システム管理](https://www.school.ctc-g.co.jp/course/P683.html) |
 | [Windows Serverシステム管理　実践編](https://www.school.ctc-g.co.jp/course/P681.html) |
-| [Power BI入門](https://www.school.ctc-g.co.jp/course/P608.html) |
+| [Power BIによる業務データ分析入門](https://www.school.ctc-g.co.jp/course/P618.html) |
 | [Power Appsによる業務アプリ開発入門](https://www.school.ctc-g.co.jp/course/P607.html) |
 | [Power Automateによる業務自動化入門](https://www.school.ctc-g.co.jp/course/P606.html) |
 | [Power Appsによる業務アプリ開発実践](https://www.school.ctc-g.co.jp/course/P611.html) |
