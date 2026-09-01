@@ -11,6 +11,7 @@
 | [AZ-900 Microsoft Azure 基礎](https://www.school.ctc-g.co.jp/course/P728.html) |
 | [AI-102 Microsoft Azure AI ソリューションの設計と実装](https://school.ctc-g.co.jp/course/P775.html) |
 | [AI-901：Azure での AI の概要](https://school.ctc-g.co.jp/course/P778.html) |
+| [AI-3016：Azureで生成 AIアプリを開発する](https://www.school.ctc-g.co.jp/course/P777.html) |
 | [AI-3026 Azure で AI エージェントを開発する](https://school.ctc-g.co.jp/course/P779.html) |
 
 

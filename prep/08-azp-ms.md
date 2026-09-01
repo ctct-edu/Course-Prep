@@ -9,7 +9,6 @@
 | 項目                                                         |
 | ------------------------------------------------------------ |
 | [AZ-305 Microsoft Azure インフラストラクチャの設計](https://www.school.ctc-g.co.jp/course/P763.html) |
-| [AI-3016：Azureで生成 AIアプリを開発する](https://www.school.ctc-g.co.jp/course/P777.html) |
 
 
 
