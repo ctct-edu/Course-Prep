@@ -34,13 +34,13 @@
 
    
 
-2. **Microsoftアカウントの作成**
+2. **Microsoftアカウントの作成(※重要※)**
 
    Microsoft認定コースを受講する場合、「**Microsoftアカウント**」が必須となります。
 
    以下の手順を参考にMicrosoftアカウントをご用意ください。
 
-  > 既にMicrosoftアカウントをお持ちの方は、ご自身のアカウントをご使用いただけますので、追加作成は不要です。
+   > 既にMicrosoftアカウントをお持ちの方は、ご自身のアカウントをご用意ください。
 
    a.Microsoftアカウント (https://account.microsoft.com/) へアクセスします。
 
