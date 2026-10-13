@@ -12,6 +12,7 @@
 | ------------------------------------------------------------ |
 | [SC-900 Microsoft セキュリティ、コンプライアンス、ID の基礎](https://www.school.ctc-g.co.jp/course/P791.html) |
 | [SC-300 Microsoft ID およびアクセス管理者](https://www.school.ctc-g.co.jp/course/P790.html) |
+| [SC-401 AI 時代の Microsoft Purview で機密情報を保護する](https://www.school.ctc-g.co.jp/course/P793.html) |
 | [AB-900 Microsoft 365 と AI 管理の概要](https://www.school.ctc-g.co.jp/course/P813.html) |
 | [MS-102 Microsoft 365 管理者](https://www.school.ctc-g.co.jp/course/P803.html) |
 | [MS-700 Microsoft Teamsの管理](https://www.school.ctc-g.co.jp/course/P804.html) |
