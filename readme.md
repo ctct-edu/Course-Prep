@@ -46,6 +46,7 @@ CTC教育サービスが提供する「**Microsoft関連コース**」をご受�
 | [MD-102 Microsoft 365 エンドポイント管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-ms-mfa.md) |
 | [SC-900：Microsoft セキュリティ、コンプライアンス、ID の基礎](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-ms-mfa.md) |
 | [SC-300：Microsoft ID およびアクセス管理者](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-ms-mfa.md) |
+| [SC-401：AI 時代の Microsoft Purview で機密情報を保護する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/06-sk-ms-mfa.md) |
 | [MS-4004：Copilot for Microsoft 365 のユース ケースを使って従業員を強化する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-m365-sha.md) |
 | [MS-4018：Microsoft 365 Copilotでドラフト、分析、プレゼンテーションを行う](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-m365-sha.md) |
 | [MS-4019：エージェントを使用して日常のビジネス プロセスを変革する](https://github.com/ctct-edu/Course-Prep/blob/main/prep/07-m365-sha.md) |
